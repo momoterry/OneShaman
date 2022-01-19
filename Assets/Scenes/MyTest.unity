@@ -4879,7 +4879,7 @@ MonoBehaviour:
   clearGate: {fileID: 990089814}
   theMG: {fileID: 103007906}
   initPlayerPos: {fileID: 1372550211}
-  playerRef: {fileID: 5621721892688654920, guid: e8f9fc4a3affae04f88447dea7779371, type: 3}
+  playerRef: {fileID: 6214839875520186894, guid: e8dcb2bbe42ef714ea9ad6303f4add38, type: 3}
   MaxLevel: 10
   initPotion: 3
   maxPotion: 5
